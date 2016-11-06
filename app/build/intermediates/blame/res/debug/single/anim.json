@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_pup_anim_in.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\anim\\bottom_pup_anim_in.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_pup_anim_out.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\anim\\bottom_pup_anim_out.xml"
+    }
+]

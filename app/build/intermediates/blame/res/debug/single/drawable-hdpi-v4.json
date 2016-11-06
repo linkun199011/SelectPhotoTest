@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_eg.png",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable-hdpi\\photo_eg.png"
+    }
+]

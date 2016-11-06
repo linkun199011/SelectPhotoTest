@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_normal.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\btn_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\display_structure_white_bg_pressed.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\display_structure_white_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_seletor.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\btn_seletor.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\display_structure_gray_bg.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\display_structure_gray_bg.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\display_structure_gray_sel.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\display_structure_gray_sel.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\display_structure_white_bg.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\display_structure_white_bg.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\display_structure_white_sel.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\display_structure_white_sel.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_pressed.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\btn_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\display_structure_gray_bg_pressed.xml",
+        "source": "E:\\LinKun\\Android Workspace 2016\\SelectPhotoTest\\app\\src\\main\\res\\drawable\\display_structure_gray_bg_pressed.xml"
+    }
+]
